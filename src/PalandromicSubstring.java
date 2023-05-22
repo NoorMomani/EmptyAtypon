@@ -2,7 +2,7 @@ import java.util.*;
 import java.io.*;
 
 class PalindromicSubstring {
-    public static String PalindromicSubstring2(String str1){
+    public static String PalindromicSubstring2(String str2){
         int left = 0, right = 0 ;
         String s = "";
         String s3 = "";
