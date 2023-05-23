@@ -5,6 +5,5 @@ public class AtyponDemo {
         System.out.println("Demo2");
         System.out.println("Hi Noor");
 
-
     }
 }
