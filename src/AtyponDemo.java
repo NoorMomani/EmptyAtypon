@@ -6,5 +6,7 @@ public class AtyponDemo {
         System.out.println("Hi Noor");
         System.out.println("Hello");
         System.out.println("Hello Suhib ,How are you?");
+        System.out.println("Hello Noor ,How are you?");
+        System.out.println("Noor: Suhib How old are you?");
     }
 }
